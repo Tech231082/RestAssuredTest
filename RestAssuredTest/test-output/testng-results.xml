@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2563" started-at="2019-09-12T16:53:54Z" finished-at="2019-09-12T16:53:57Z">
+  <suite name="Default suite" duration-ms="4149" started-at="2019-09-16T15:57:17Z" finished-at="2019-09-16T15:57:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2563" started-at="2019-09-12T16:53:54Z" finished-at="2019-09-12T16:53:57Z">
-      <class name="getData.Preemitive_Authentication">
-        <test-method status="PASS" signature="test()[pri:0, instance:getData.Preemitive_Authentication@68c4039c]" name="test" duration-ms="2527" started-at="2019-09-12T16:53:54Z" finished-at="2019-09-12T16:53:57Z">
+    <test name="Default test" duration-ms="4149" started-at="2019-09-16T15:57:17Z" finished-at="2019-09-16T15:57:21Z">
+      <class name="auth.AuthDemo">
+        <test-method status="PASS" signature="test()[pri:0, instance:auth.AuthDemo@6f7fd0e6]" name="test" duration-ms="4081" started-at="2019-09-16T15:57:17Z" finished-at="2019-09-16T15:57:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- getData.Preemitive_Authentication -->
+      </class> <!-- auth.AuthDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
